@@ -63,15 +63,15 @@ Arkana Telecom is proud to be an open-source project. Contributions are welcome!
 
 ---
 
-## License
+## Contact
 
-This project is licensed under the **AGPLv3** License. See the [LICENSE](./LICENSE) file for details.
+For any questions or support, reach out to us at [contact@arkanatelecom.com](mailto:contact@arkanatelecom.com).
 
 ---
 
-## Contact
+## License
 
-For any questions or support, reach out to us at [contact@arkana.telecom](mailto:contact@arkana.telecom).
+This project is licensed under the **AGPLv3** License. See the [LICENSE](./LICENSE) file for details.
 
 ---
 
